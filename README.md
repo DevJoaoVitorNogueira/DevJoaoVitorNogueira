@@ -11,9 +11,10 @@ Atualmente estou criando projetos com:
 
 Se conecte comigo:
 - <p>
-    
+    <a href="www.linkedin.com/in/joão-vitor-nogueira-marques-957794311">
       <img align='left' alt='Linkedin' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg'
         </a>
+  </p>
   </p>
   <br/>
   <br/>
